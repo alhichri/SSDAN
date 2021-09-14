@@ -1,0 +1,12 @@
+images/Airfield/airplane78.tif 0
+images/Anchorage/harbor70.tif 1
+images/Beach/beach29.tif 2
+images/DenseResidential/denseresidential46.tif 3
+images/Farm/agricultural56.tif 4
+images/Flyover/overpass07.tif 5
+images/Forest/forest14.tif 6
+images/GameSpace/tenniscourt38.tif 7
+images/ParkingSpace/parkinglot97.tif 8
+images/River/river67.tif 9
+images/SparseResidential/sparseresidential00.tif 10
+images/StorageCisterns/storagetanks98.tif 11

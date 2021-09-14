@@ -1,0 +1,12 @@
+images/Airfield/img00417.jpg 0
+images/Anchorage/img00424.jpg 1
+images/Beach/img00607.jpg 2
+images/DenseResidential/img00653.jpg 3
+images/Farm/img00588.jpg 4
+images/Flyover/img00288.jpg 5
+images/Forest/img00258.jpg 6
+images/GameSpace/img00738.jpg 7
+images/ParkingSpace/img00054.jpg 8
+images/River/img00261.jpg 9
+images/SparseResidential/img00263.jpg 10
+images/StorageCisterns/img00280.jpg 11

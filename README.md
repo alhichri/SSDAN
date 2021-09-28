@@ -6,7 +6,12 @@ We present a new method for multi-source semi-supervised domain adaptation in re
 
 Running the code:
 
-1) you need to download the datasets under the datasets/ folder. Each class of images should be in a seprate folder.
-2) Check the text files under the folder datasets/our_datasets/ and correct the names of the class folders and also image files.
+1) You need to download the datasets from here:  https://figshare.com/projects/SSDAN/123421
+2) Put the them under the datasets/ folder. Each class of images should be in a seprate folder.
+3) Check the text files under the folder datasets/our_datasets/ , they represent the sets: source set, labaled training target set, labeled validation target set, unlabeled target set.
+4) Correct the list of image path&files (with class label) in each file. (write your own simple python code to accomlish that)
 
 Good luck!
+
+paper citation:
+Lasloum, T.; Alhichri, H.; Bazi, Y.; Alajlan, N. SSDAN: Multi-Source Semi-Supervised Domain Adaptation Network for Remote Sensing Scene Classification. Remote Sens. 2021, 13, 3861. https://doi.org/10.3390/rs13193861
